@@ -1,0 +1,3 @@
+0 Healthy patients
+1 Alzheimer's Patients
+2 PD patients
